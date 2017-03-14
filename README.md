@@ -1,6 +1,4 @@
-# php-servicemanager
-
-Service locator pattern for PHP by [Petr Knap].
+# Service locator pattern for PHP
 
 * [What is service locator pattern?](#what-is-service-locator-pattern)
 * [Why use service locator?](#why-use-service-locator)
@@ -192,7 +190,10 @@ Or manually clone this repository via `git clone https://github.com/petrknap/php
 
 
 
-[Petr Knap]:http://petrknap.cz/
-[Service locator pattern - Wikipedia, The Free Encyclopedia]:https://en.wikipedia.org/w/index.php?title=Service_locator_pattern&oldid=698489971
 [one of released versions]:https://github.com/petrknap/php-servicemanager/releases
 [this repository as ZIP]:https://github.com/petrknap/php-servicemanager/archive/master.zip
+
+
+
+
+[Service locator pattern - Wikipedia, The Free Encyclopedia]:https://en.wikipedia.org/w/index.php?title=Service_locator_pattern&oldid=698489971
